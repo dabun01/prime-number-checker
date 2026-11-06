@@ -25,7 +25,7 @@ npm install prime-number-checker
 
 ```js
 const primeNumberChecker = require("./index");
-console.log(primeNumberChecker.isPrime(15)); // true
+console.log(primeNumberChecker.isPrime(17)); // true
 console.log(primeNumberChecker.isPrime(12)); // false
 ```
 

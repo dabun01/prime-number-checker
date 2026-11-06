@@ -1,0 +1,25 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "This package is used to check for prime numbers",
+  "keywords": [
+    "prime",
+    "numbers",
+    "checker"
+  ],
+  "homepage": "https://github.com/dabun01/prime-number-checker#readme",
+  "bugs": {
+    "url": "https://github.com/dabun01/prime-number-checker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabun01/prime-number-checker.git"
+  },
+  "license": "MIT",
+  "author": "David Abundis",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
